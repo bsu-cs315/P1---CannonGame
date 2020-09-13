@@ -2,14 +2,21 @@
 # Project 1 Iteration 1
 
 This is a 2D Physics based game based off of Angry Birds
+
 Developed with the Godot Engine
+
 Made by Colin Ferguson
 
 Game Controls:
+
 Left/Right arrow keys control power
+
 Up/Down arrow keys control angle
+
 Space fires the cannonballs
+
 G reloads a green ball
+
 B reloads a brown ball
 
 ## Project Report
