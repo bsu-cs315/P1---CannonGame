@@ -19,22 +19,33 @@ In iteration 2 I now feel a little more confident when it comes to controlling m
 
 ### Self Evaluation
 - Meeting the following criteria earns a D or better grade; failing to meet these criteria earns an F grade:
+
 [X]D-1: The repository link is submitted to Canvas before the project deadline.
+
 [X]D-2: The repository contains, in the top-level directory, a README.md file that includes the project identifier and author's name.
+
 [X]D-3: The project content is eligible for an ESRB Rating of M or less.
-Meeting all previous criteria as well as the following earns a C or better grade:
+
 [X]C-1: Your repository is well-formed, with an appropriate .gitignore file and no unnecessary files tracked.
-[X=]C-2: The repository is tagged using semantic versioning where the major version is zero, the minor version is the iteration number, and the patch version is incremented as normal for each change made to the minor version. The link submitted on Canvas is to the relevant release.
+
+[X]C-2: The repository is tagged using semantic versioning where the major version is zero, the minor version is the iteration number, and the patch version is incremented as normal for each change made to the minor version. The link submitted on Canvas is to the relevant release.
+
 [X]C-3: You have a clear legal right to use all incorporated assets, and the licenses for all third-party assets are tracked in the README.md file.
+
 [X]C-4: The project content is eligible for an ESRB Rating of T or less.
+
 [X]C-5: The projectile and targets are shown with 2D graphics.
+
 [X]C-6: The game plays an appropriate sound effect when the projectile is fired.
-Meeting all previous criteria as well as the following earns a B or better grade:
+
 [X]B-1: The README.md file contains a personal reflection on the iteration as well as the reflections from previous iterations, if any.
+
 [X]B-2: The README.md file contains a self-assessment.
+
 []B-3: The release is published to GitHub Pages with a link provided in the README.md file.
+
 [X]B-4: Earn one star.
-Meeting all previous criteria as well as the following earns an A grade:
+
 []A-1: Earn three stars.
 
 I only got two stars so I wouldnt get an A. But I think I hit everything else.
